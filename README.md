@@ -2,7 +2,7 @@ I am a Data Analyst with a growth mindset. Who is passionate about problem-solvi
 results. With a background in customer service, I have developed a strong understanding of the values of teamwork and excellent communication. I also have 
 years of research experience from my educational background that gave me great attention to detail and problem-solving skills, which I can integrate into my work as a Data Analyst.
 
-### Projects
+# Projects
 
 ## [Woman in Data science](https://github.com/FaranakNehzati/WomenInDataScience/blob/main/projectThree.ipynb)
 
