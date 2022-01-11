@@ -20,3 +20,13 @@ I created a dashboard using Tableau to visualize data about San Francisco govern
 ## [Game Company 30 day Retention Analysis](https://github.com/FaranakNehzati/projectSQL)
 
 I wrote SQL query to find the retention rate and answered some questions about data with SQL.
+
+## Frontend development repos:
+
+[JavaScript Form Validation](https://github.com/FaranakNehzati/JSFormValidation)
+
+[Drop Down Menu](https://github.com/FaranakNehzati/DropDownMenu)
+
+[GitHub Ajax Request](https://github.com/FaranakNehzati/githubAjaxRequest)
+
+[CatTech Slider](https://github.com/FaranakNehzati/CatTechSlider)
